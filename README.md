@@ -59,8 +59,6 @@ I enjoy experimenting with game concepts, animating short clips, and creating en
 
 ### 🤝 Let's Connect
 If you're passionate about tech, design, or creativity — feel free to collaborate or just say hi!
-
-📫 Email: mariojuliano2007@gmail.com
 🌐 Portfolio: [https://juliano2007.github.io/mariojuliano.github.io/](https://juliano2007.github.io/mariojuliano.github.io/)
 
 
@@ -70,7 +68,19 @@ If you're passionate about tech, design, or creativity — feel free to collabor
 
 ## 🔧 My Projects
 - 💼 [mariojuliano.github.io](https://mariojuliano.github.io)
-- 💻 [Venture Project](https://github.com/JULIANO2007/Venture)
 - 🎨 [Natours Project](https://github.com/JULIANO2007/Natours-Project)
 - 🔗 Webflow Project: [marios-spectacular-site-build.webflow.io](https://marios-spectacular-site-build.webflow.io/)
+- 
+🔗 **HTML/CSS/JS Projects on GitHub Pages**  
+- 🎉 [Selamat Ulang Tahun 33th](https://juliano2007.github.io/Selamat-Ulang-Tahun-33th/)  
+- 📚 [Bimbel Online](https://juliano2007.github.io/Bimbel-Online/)  
+- 🏞️ [Trillo Projects](https://juliano2007.github.io/Trillo_Projects/)  
+- 🚀 [Venture Project](https://juliano2007.github.io/Venture/#)
+
+## 📲 Connect with Me
+
+- 📧 Email: [mariojuliano2007@gmail.com](mailto:mariojuliano2007@gmail.com)
+- 📸 Instagram: [@mariojuliano2007](https://www.instagram.com/mariojuliano2007?igsh=eW9kdmFuNHRuMmU5)
+- ▶️ YouTube: [@mariojuliano2007](https://www.youtube.com/@mariojuliano2007)
+
 
