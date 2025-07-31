@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+
 # Hi 👋 I'm Mario Juliano
 
 🚀 Hi, I’m Mario Juliano Subagiyo 
