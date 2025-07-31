@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Mario Juliano
 
-<!--
-**JULIANO2007/JULIANO2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning: HTML, CSS, JavaScript  
+🚀 Projects: Portfolio Website, Trillo App, Natours Landing Page  
+📫 How to reach me: mario@example.com  
+✨ Fun fact: I love building beautiful UIs!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 My Projects
+- 💼 [mariojuliano.github.io](https://mariojuliano.github.io)
+- 💻 [Venture Project](https://github.com/JULIANO2007/Venture)
+- 🎨 [Natours Project](https://github.com/JULIANO2007/Natours-Project)
